@@ -63,3 +63,6 @@ The system combines multiple microcontrollers and AI components:
    ```bash
    git clone https://github.com/tianconl-lindsay/ai-smart-environment-assistant.git
    cd ai-smart-environment-assistant
+2. **Run Edge Controller**
+   ```bash
+   
